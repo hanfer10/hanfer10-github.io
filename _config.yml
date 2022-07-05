@@ -27,7 +27,7 @@ url: "https://ferhansyed.com" # the base hostname & protocol for your site, e.g.
 github_username: hanfer10
 github:
     is_project_page: false
-linedin_username: 
+linkedin_username:
 # Build settings
 theme: minima
 plugins:
