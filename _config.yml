@@ -27,9 +27,13 @@ url: "https://ferhansyed.com" # the base hostname & protocol for your site, e.g.
 github_username: hanfer10
 github:
     is_project_page: false
-linkedin_username: ferhan-syed
+linkedin_username: ferhan-syed-73677a15a
+paginate: 5
+paginate_path: "/blog/page:num"
+permalink: pretty
+
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
