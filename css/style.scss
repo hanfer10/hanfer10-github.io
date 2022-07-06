@@ -1,0 +1,49 @@
+---
+---
+
+$font-stack: Verdana, sans-serif;
+$text-color: white;
+
+@import "{{ site.theme }}";
+
+$font-stack: Verdana, sans-serif;
+$text-color: white;
+$separator-color: white;
+
+img {
+  border: 0;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  -ms-box-shadow: none;
+}
+
+graph-picture {
+  height: 225px;
+}
+
+form {
+  background: none;
+}
+
+body {
+  font: 100% $font-stack;
+  color: $text-color;
+}
+
+h1 {
+  color: $text-color;
+}
+
+h2 {
+  color: $text-color;
+}
+
+h3 {
+  color: $text-color;
+}
+
+hr {
+  background-color: $separator-color;
+}
