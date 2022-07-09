@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making an GET Call with Axios
+title: Making a GET Call with Axios
 summary: A quick introduction to Axios and making a get request.
 categories: jekyll update
 ---
